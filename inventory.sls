@@ -36,7 +36,7 @@ nokogiri:
    gem:
      - installed
  
-/srv/inventory/windygaming.rb:
+/srv/salt/inventory/windygaming.rb:
    file:
       - managed
       - source: salt://inventory/windygaming.rb
